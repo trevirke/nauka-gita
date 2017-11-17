@@ -1,0 +1,17 @@
+.section1 {
+    h3 {
+        font-size: 25px;
+        text-transform: uppercase;
+        margin-bottom: 0px;
+        color: $my-gray;
+    }
+    p {
+        margin-top: 4px;
+        color: $my-gray;
+        padding: 20px;
+    }
+    .blue h3,
+    .blue p {
+        color: #00C7E8;
+    }
+}
